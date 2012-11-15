@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cupdata:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cupdata.war">
+      <element id="artifact" artifact-name="cupdata:war exploded" />
+    </root>
+  </artifact>
+</component>

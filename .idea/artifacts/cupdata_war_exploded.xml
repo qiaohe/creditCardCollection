@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cupdata:war exploded">
+    <output-path>$PROJECT_DIR$/target/cupdata</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cupdata/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cupdata" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
